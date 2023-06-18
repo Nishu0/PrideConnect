@@ -41,6 +41,9 @@ const Nav = () => {
             <Link href='/information' className='black_btn'>
               LGBTQ Info
             </Link>
+            <Link href='/jobs' className='black_btn'>
+              Pride STEM
+            </Link>
 
             <button type='button' onClick={signOut} className='outline_btn'>
               Sign Out

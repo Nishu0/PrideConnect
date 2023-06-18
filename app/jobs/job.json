@@ -1,0 +1,205 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Scholarship Program",
+        "company": "Tech Solutions Inc.",
+        "location": "STEM Foundation",
+        "description": "We are seeking a skilled software engineer to join our team and develop innovative software solutions.",
+        "opportunityType": "Scholarship",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.stemfoundation.org/scholarships"
+      },
+      {
+        "id": 2,
+        "title": "Internship Opportunity",
+        "company": "Tech Innovators",
+        "location": "New York, NY",
+        "description": "Join our team as a data analyst and help analyze large datasets to uncover valuable insights.",
+        "opportunityType": "Internship",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.techinnovators.com/careers/internship"
+      },
+      {
+        "id": 3,
+        "title": "Research Grant",
+        "company": "Science Equality Fund",
+        "location": "Boston, MA",
+        "description": "Conduct cutting-edge research in the field of physics and contribute to scientific advancements.",
+        "opportunityType": "Research",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.scienceequalityfund.org/grants"
+      },
+      {
+        "id": 4,
+        "title": "Codesmith LGBTQ Scholarship",
+        "company": "Codesmith",
+        "location": "Seattle, WA",
+        "description": "Create intuitive user experiences for our products and contribute to the design process.",
+        "opportunityType": "Scholarship",
+        "lgbtqFriendly": true,
+        "applyLink": "https://codesmith.io/inclusivity-diversity"
+      },
+      {
+        "id": 5,
+        "title": "Data Scientist",
+        "company": "Tech Innovations",
+        "location": "Austin, TX",
+        "description": "Apply machine learning techniques to analyze complex data and derive insights.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/5"
+      },
+      {
+        "id": 6,
+        "title": "The Grand Circus Diversity Scholarship",
+        "company": "oSTEM",
+        "location": "Portland, OR",
+        "description": "Work on sustainability projects and develop innovative solutions to environmental challenges.",
+        "opportunityType": "Scholarship",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.ostem.org/page/scholarship-program"
+      },
+      {
+        "id": 7,
+        "title": "Chemical Engineer",
+        "company": "ChemTech Corp.",
+        "location": "Houston, TX",
+        "description": "Design and optimize chemical processes to meet industry standards and safety regulations.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/7"
+      },
+      {
+        "id": 8,
+        "title": "Biomedical Researcher",
+        "company": "BioPharma Solutions",
+        "location": "San Diego, CA",
+        "description": "Conduct research in the biomedical field and contribute to the development of life-saving treatments.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/8"
+      },
+      {
+        "id": 9,
+        "title": "Electrical Engineer",
+        "company": "Electric Innovations",
+        "location": "Chicago, IL",
+        "description": "Design and develop electrical systems for various applications, including renewable energy.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/9"
+      },
+      {
+        "id": 10,
+        "title": "Robotics Engineer",
+        "company": "RoboTech Inc.",
+        "location": "Los Angeles, CA",
+        "description": "Work on cutting-edge robotics projects and develop intelligent systems.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/10"
+      },
+      {
+        "id": 11,
+        "title": "Aerospace Engineer",
+        "company": "AeroSpace Technologies",
+        "location": "Denver, CO",
+        "description": "Design and analyze aerospace systems and contribute to the development of space exploration technologies.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/11"
+      },
+      {
+        "id": 12,
+        "title": "Civil Engineer",
+        "company": "CivilTech Solutions",
+        "location": "Atlanta, GA",
+        "description": "Design and supervise the construction of infrastructure projects, such as bridges and buildings.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/12"
+      },
+      {
+        "id": 13,
+        "title": "Materials Scientist",
+        "company": "Material Innovations",
+        "location": "Raleigh, NC",
+        "description": "Research and develop new materials with desired properties for various applications.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/13"
+      },
+      {
+        "id": 14,
+        "title": "Mathematician",
+        "company": "MathTech Solutions",
+        "location": "Seattle, WA",
+        "description": "Apply mathematical principles to solve complex problems and develop algorithms.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/14"
+      },
+      {
+        "id": 15,
+        "title": "Biotechnologist",
+        "company": "BioInnovate Labs",
+        "location": "San Francisco, CA",
+        "description": "Utilize biotechnology to develop innovative solutions and contribute to scientific advancements.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/15"
+      },
+      {
+        "id": 16,
+        "title": "Network Administrator",
+        "company": "Tech Networks Inc.",
+        "location": "Boston, MA",
+        "description": "Manage and maintain computer networks for efficient and secure data transmission.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/16"
+      },
+      {
+        "id": 17,
+        "title": "Industrial Designer",
+        "company": "Design Innovations",
+        "location": "Los Angeles, CA",
+        "description": "Create innovative product designs that blend aesthetics and functionality.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/17"
+      },
+      {
+        "id": 18,
+        "title": "Chemist",
+        "company": "ChemLab Solutions",
+        "location": "Houston, TX",
+        "description": "Conduct chemical experiments and analyze substances to develop new products or improve existing ones.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/18"
+      },
+      {
+        "id": 19,
+        "title": "Quality Assurance Engineer",
+        "company": "QualityTech Inc.",
+        "location": "Austin, TX",
+        "description": "Develop and implement quality control processes to ensure product reliability and customer satisfaction.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/19"
+      },
+      {
+        "id": 20,
+        "title": "Environmental Scientist",
+        "company": "EcoTech Research",
+        "location": "Portland, OR",
+        "description": "Study and analyze environmental issues and develop strategies for their mitigation and conservation.",
+        "opportunityType": "Full-time",
+        "lgbtqFriendly": true,
+        "applyLink": "https://www.example.com/apply/20"
+      }
+    ]
+  }
+  
