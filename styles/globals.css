@@ -19,7 +19,7 @@
 }
 
 .main:before {
-  background: radial-gradient(circle, rgba(2, 0, 36, 0) 0, #0dbfe3 100%);
+  background: radial-gradient(circle, rgba(2, 0, 36, 0) 0, #ffffff 100%);
   position: absolute;
   content: "";
   z-index: 2;
@@ -30,7 +30,6 @@
 
 .main:after {
   content: "";
-  background-image: url("/assets/images/grid.svg");
   z-index: 1;
   position: absolute;
   width: 100%;
@@ -167,4 +166,18 @@
 
 .flex-between {
   @apply flex justify-between items-center;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    180deg,
+    rgba(231, 0, 0, 1) 0%,
+    rgba(255, 140, 0, 1) 20%,
+    rgba(255, 239, 0, 1) 40%,
+    rgba(0, 129, 31, 1) 60%,
+    rgba(48, 100, 169, 1) 80%,
+    rgba(135, 24, 157, 1) 100%
+  );
+  border-radius: 2px;
+  border: 1px solid #fff;
 }
