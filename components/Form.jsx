@@ -7,7 +7,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
         <span className='blue_gradient'>{type} Post</span>
       </h1>
       <p className='desc text-left max-w-md'>
-        {type} and Let AI Do it's magic
+        {type} Your Message
       </p>
 
       <form
@@ -16,7 +16,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
       >
         <label>
           <span className='font-satoshi font-semibold text-base text-gray-700'>
-            Template Style
+            Incident
           </span>
 
           <textarea
@@ -30,37 +30,9 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
 
         <label>
           <span className='font-satoshi font-semibold text-base text-gray-700'>
-          Font Family
-          </span>
-
-          <textarea
-            value={post.font}
-            onChange={(e) => setPost({ ...post, font: e.target.value })}
-            placeholder='Name of the font family'
-            required
-            className='form_input '
-          />
-        </label>
-
-        <label>
-          <span className='font-satoshi font-semibold text-base text-gray-700'>
-          Color Paletes
-          </span>
-
-          <textarea
-            value={post.palete}
-            onChange={(e) => setPost({ ...post, palete: e.target.value })}
-            placeholder='Color Paletes of your choice'
-            required
-            className='form_input '
-          />
-        </label>
-
-        <label>
-          <span className='font-satoshi font-semibold text-base text-gray-700'>
             Keywords{" "}
             <span className='font-normal'>
-              (#product, #webdevelopment, #idea, etc.)
+              (#lbgtq, #pride, #gay, etc.)
             </span>
           </span>
           <input

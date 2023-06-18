@@ -11,6 +11,12 @@ const Home = () => (
       PrideConnect aims to create a safe and welcoming space for the LGBTQ+ community and allies.
     </p>
 
+    <h2 className='head_text text-center'>
+      <br className='max-md:hidden' />
+      <span className='blue_gradient text-center'> Some Facts About Pride</span>
+    </h2>
+
+    
     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-8'>
       <div className='bg-white rounded-lg shadow p-4'>
         <Image src='/1.png' alt='Pride Month Facts' width={400} height={300} />
@@ -88,39 +94,6 @@ const Home = () => (
         </p>
       </div>
     </div>
-
-    <footer className='bg-gray-900 text-white py-6'>
-  <div className='container mx-auto flex flex-col md:flex-row justify-center items-center'>
-    <div className='flex items-center mb-4 md:mb-0'>
-      <h4 className='mr-4'>Follow us:</h4>
-      <a
-        href='https://www.facebook.com/example'
-        target='_blank'
-        rel='noopener noreferrer'
-        className='text-gray-400 hover:text-white mr-2'
-      >
-        <i className='fab fa-facebook'></i>
-      </a>
-      <a
-        href='https://www.twitter.com/example'
-        target='_blank'
-        rel='noopener noreferrer'
-        className='text-gray-400 hover:text-white mr-2'
-      >
-        <i className='fab fa-twitter'></i>
-      </a>
-      <a
-        href='https://www.instagram.com/example'
-        target='_blank'
-        rel='noopener noreferrer'
-        className='text-gray-400 hover:text-white mr-2'
-      >
-        <i className='fab fa-instagram'></i>
-      </a>
-    </div>
-    <p className='text-gray-400 text-sm'>Created with Love by Nisarg Thakkar</p>
-  </div>
-</footer>
 
   </section>
 );

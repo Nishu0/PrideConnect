@@ -41,6 +41,9 @@ const Nav = () => {
             <Link href='/information' className='black_btn'>
               LGBTQ Info
             </Link>
+            <Link href='/feed' className='black_btn'>
+              Community
+            </Link>
             <Link href='/jobs' className='black_btn'>
               Pride STEM
             </Link>

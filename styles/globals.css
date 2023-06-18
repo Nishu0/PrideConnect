@@ -8,6 +8,40 @@
   Note: The styles for this gradient grid background is heavily inspired by the creator of this amazing site (https://dub.sh) – all credits go to them! 
 */
 
+/* scrollbar track */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* scrollbar thumb */
+body::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    180deg,
+    rgba(231, 0, 0, 1) 0%,
+    rgba(255, 140, 0, 1) 20%,
+    rgba(255, 239, 0, 1) 40%,
+    rgba(0, 129, 31, 1) 60%,
+    rgba(48, 100, 169, 1) 80%,
+    rgba(135, 24, 157, 1) 100%
+  );
+  border-radius: 2px;
+  border: 1px solid #fff;
+}
+
+/* scrollbar track on hover */
+body::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    180deg,
+    rgba(135, 24, 157, 1) 0%,
+    rgba(48, 100, 169, 1) 20%,
+    rgba(0, 129, 31, 1) 40%,
+    rgba(255, 239, 0, 1) 60%,
+    rgba(255, 140, 0, 1) 80%,
+    rgba(231, 0, 0, 1) 100%
+  );
+}
+
+
 .main {
   width: 100vw;
   min-height: 100vh;

@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import styles from './page.module.css'
+import styles from './styles.module.css'
 
 
 export default function Info() {
@@ -10,20 +10,20 @@ export default function Info() {
           <h3>What does LGBTQ+ mean?</h3>
           <p>LGBTIQ+ is a universal acronym that represents the diversity of gender expressions and sexual orientations that has changed over time. They are the initials of Lesbian, Gay, Bisexual, Trans, Intersex, Queer and other identities. It usually ends with the symbol + to include other groups that are not named or represented by the previous abbreviations. They refer to minorities within the LGBTIQ+ collective as non-binary, asexual, demisexual or pansexual people.</p>
         </div>
-        <Image src='/img2.jpg' width={500} height={350} className={styles.img}></Image>
+        <Image src='/img1.jpg' width={500} height={350} className={styles.img}></Image>
       </div>
     </><>
         <div className={styles.container}>
           <div className={styles.text}>
             <h3>Meaning Of Their Colors</h3>
-            <li>Pink represents sexuality</li>
-            <li>Red represents life</li>
-            <li>Orange represents health</li>
-            <li>Yellow represents the sun</li>
-            <li>Green represents nature</li>
-            <li>Turquoise represents magic and art</li>
-            <li>Blue represents harmony and serenity</li>
-            <li>Violet represents the spirit</li>
+            <li className="mb-2 text-indigo-500">Pink represents sexuality</li>
+              <li className="mb-2 text-red-500">Red represents life</li>
+              <li className="mb-2 text-orange-500">Orange represents health</li>
+              <li className="mb-2 text-yellow-500">Yellow represents the sun</li>
+              <li className="mb-2 text-green-500">Green represents nature</li>
+              <li className="mb-2 text-teal-500">Turquoise represents magic and art</li>
+              <li className="mb-2 text-blue-500">Blue represents harmony and serenity</li>
+              <li className="mb-2 text-purple-500">Violet represents the spirit</li>
           </div>
           <div className={styles.text}>
             <h3>Meaning Acronyms LGBTIQ+</h3>
